@@ -1,0 +1,27 @@
+{
+  "name": "gatey-sdk",
+  "version": "0.0.0",
+  "description": "Gatey SDK for JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florgon/gatey-sdk-js.git"
+  },
+  "keywords": [
+    "gatey",
+    "error",
+    "logging",
+    "florgon"
+  ],
+  "author": "Florgon Solutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/florgon/gatey-sdk-js/issues"
+  },
+  "homepage": "https://github.com/florgon/gatey-sdk-js#readme"
+}
